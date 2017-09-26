@@ -1,0 +1,5 @@
+* Moved off GitHub
+
+As I *strongly* disagree with what GitHub is doing with their CoPilot tool, I have decided to move all projects I control off GitHub.
+
+See https://gitlab.com/peterhoeg/next-spec-day
